@@ -1,0 +1,15 @@
+{F:/study/semester 4/Switching theory/New folder/and_gate.v} {1 {vlog -work work -stats=none {F:/study/semester 4/Switching theory/New folder/and_gate.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}} {F:/study/semester 4/Switching theory/New folder/tb_and_gate.v} {1 {vlog -work work -stats=none {F:/study/semester 4/Switching theory/New folder/tb_and_gate.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_and_gate
+
+Top level modules:
+	tb_and_gate
+
+} {} {}}

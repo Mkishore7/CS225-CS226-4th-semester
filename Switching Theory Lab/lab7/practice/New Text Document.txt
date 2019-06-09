@@ -1,0 +1,31 @@
+module mux(x,d,s);
+    output x;
+    input [3:0]d;
+    input [1:0]s;
+    assign x=d[s];
+endmodule
+
+module test();
+    wire x;
+    reg [3:0]d;
+    reg [1:0]s;
+    integer i,j;
+    mux m(x,d,s);
+    initial
+    begin
+    for(j=0;j<16;j=j+1)
+        begin
+            for(i=0;i<4;i=i+1)
+            begin
+                d=j;
+                s=i;
+                #10;
+            end
+            $display("=============================");
+        end
+    end
+    initial
+    begin
+    $monitor("x=%b | d=%b | s=%b\n",x,d,s);
+    end
+endmodule

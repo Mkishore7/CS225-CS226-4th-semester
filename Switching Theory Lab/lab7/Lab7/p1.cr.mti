@@ -1,0 +1,11 @@
+{F:/study/semester 4/Switching theory/Lab7/p1.v} {1 {vlog -work work -stats=none {F:\study\semester 4\Switching theory\Lab7\p1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module p1
+
+Top level modules:
+	p1
+
+} {} {}} {F:/study/semester 4/Switching theory/Lab7/tb_p1.v} {1 {vlog -work work -stats=none {F:\study\semester 4\Switching theory\Lab7\tb_p1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+
+} {} {}}
