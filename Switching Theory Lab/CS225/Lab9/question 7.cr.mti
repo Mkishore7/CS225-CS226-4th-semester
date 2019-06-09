@@ -1,0 +1,19 @@
+C:/CS225/Lab9/p7.v {1 {vlog -work work -stats=none C:/CS225/Lab9/p7.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module decade_counter
+-- Compiling module decoded_counter
+
+Top level modules:
+	decade_counter
+	decoded_counter
+
+} {} {}} C:/CS225/Lab9/tb_p7.v {1 {vlog -work work -stats=none C:/CS225/Lab9/tb_p7.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module decade
+-- Compiling module decoded
+
+Top level modules:
+	decade
+	decoded
+
+} {} {}}

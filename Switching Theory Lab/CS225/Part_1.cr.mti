@@ -1,0 +1,17 @@
+C:/CS225/part1.v {1 {vlog -work work -stats=none {C:\CS225\part1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module N_bit_adder
+-- Compiling module half_adder
+-- Compiling module full_adder
+
+Top level modules:
+	N_bit_adder
+
+} {} {}} C:/CS225/part1_tb.v {1 {vlog -work work -stats=none {C:\CS225\part1_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_N_bit_adder
+
+Top level modules:
+	tb_N_bit_adder
+
+} {} {}}

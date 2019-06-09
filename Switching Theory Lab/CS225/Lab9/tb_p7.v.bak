@@ -1,0 +1,16 @@
+module tb_p7_1();
+	wire [3:0]q;
+	reg clk = 0;
+	integer i;
+	decade_counter UUT(q, clk);
+	initial begin
+		for(i = 0; i < 100; i = i + 1)
+		#10;	
+	end
+	always @(i) clk = ~clk;
+	initial begin
+	#10;
+	$monitor("q=%d",clk);
+	end
+endmodule
+

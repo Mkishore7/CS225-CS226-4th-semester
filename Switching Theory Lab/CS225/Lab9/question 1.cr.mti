@@ -1,0 +1,15 @@
+C:/CS225/Lab9/p1.v {1 {vlog -work work -stats=none C:/CS225/Lab9/p1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module p1
+
+Top level modules:
+	p1
+
+} {} {}} C:/CS225/Lab9/tb_p1.v {1 {vlog -work work -stats=none C:/CS225/Lab9/tb_p1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_p1
+
+Top level modules:
+	tb_p1
+
+} {} {}}

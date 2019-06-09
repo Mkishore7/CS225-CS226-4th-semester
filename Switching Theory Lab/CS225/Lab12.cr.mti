@@ -1,0 +1,33 @@
+C:/CS225/p2.v {1 {vlog -work work -stats=none {C:\CS225\p2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module p2
+-- Compiling module tb_p2
+
+Top level modules:
+	tb_p2
+
+} {} {}} C:/CS225/p3.v {1 {vlog -work work -stats=none {C:\CS225\p3.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module p3
+-- Compiling module tb_p3
+
+Top level modules:
+	tb_p3
+
+} {} {}} C:/CS225/task1.v {1 {vlog -work work -stats=none {C:\CS225\task1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module fsm_trafic_light
+-- Compiling module tb_fsm_trafic_light
+
+Top level modules:
+	tb_fsm_trafic_light
+
+} {} {}} C:/CS225/p1.v {1 {vlog -work work -stats=none C:/CS225/p1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module p1
+-- Compiling module tb_p1
+
+Top level modules:
+	tb_p1
+
+} {} {}}

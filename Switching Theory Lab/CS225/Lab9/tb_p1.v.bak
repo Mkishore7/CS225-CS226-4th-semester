@@ -1,0 +1,15 @@
+module tb_p1();
+	reg [3:0]binary;
+	wire [3:0]gray;
+	integer i;
+	binary_to_graycode Graycode (gray,binary);
+	initial
+	begin
+	#10 $monitor("binary = %b",binary, " => Graycode = %b",gray);
+	for(i=0;i<=15;i=i+1)
+		begin
+		binary=i;
+		#10;
+		end
+	end
+endmodule
